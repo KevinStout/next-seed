@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Seed Info
+
+This is a Nextjs seed templet.
+Included in this templet is a developer packege for prettier to be able to format tailwindcss.
+Also a package called tailwind-merge https://www.npmjs.com/package/tailwind-merge This is a utility function to help prevent style conflicts.
+
 ## Getting Started
 
 First, run the development server:
